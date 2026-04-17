@@ -1,0 +1,8 @@
+Metric,Value
+Raw records,456548
+Unique weeks,145
+Unique fulfillment centers,77
+Unique meals in raw data,51
+Selected meals,10
+Aggregated records,1450
+Prepared records after feature engineering,1370
